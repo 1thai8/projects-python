@@ -1,15 +1,15 @@
-# 🧮 Python Calculator
+#  Python Calculator
 
 This is a simple calculator built with Python. It runs in the terminal and supports the following basic operations:
 
-- Addition ✅  
-- Subtraction ✅  
-- Multiplication ✅  
-- Division ✅  
+- Addition 
+- Subtraction   
+- Multiplication   
+- Division   
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 Make sure you have **Python** installed.  
 To run the program, use your terminal:
